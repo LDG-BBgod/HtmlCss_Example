@@ -1,0 +1,16 @@
+/* SUMMARY */
+.summary__title {
+    font-size: 34px !important;
+}
+.summary__description {
+    font-size: 22px;
+}
+
+/* FEATURE */
+.section--feature .tiles ul {
+    grid-template-columns: repeat(1, 1fr);
+}
+.section--feature .tiles li {
+    border-right: none;
+    border-bottom: 1px solid #e5e5e5;
+}
